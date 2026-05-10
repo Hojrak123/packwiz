@@ -1,0 +1,21 @@
+filename = 'tweakeroo-fabric-26.1.2-0.28.2.jar'
+name = 'Tweakeroo'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.28.2'
+
+[download]
+hash = '4f645d6e03865f3a0a83f6bcc2169be23adb7a335479b79a20350631509c74f43d2cae71c3f200c8c43cb8b0eb0d452ea357f602bccba24202f01aed3cea8f57'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t5wuYk45/versions/weHlJmDK/tweakeroo-fabric-26.1.2-0.28.2.jar'
+
+[update.modrinth]
+mod-id = 't5wuYk45'
+version = 'weHlJmDK'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GcWjdA9I'
+type = 'REQUIRED'
