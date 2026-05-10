@@ -1,0 +1,13 @@
+name = "watykanczyk"
+author = "hojraczek"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc2e897280736a91321071a924e9cbb5aa2a4dec7ae0031cda70ce60e56ea23c"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "26.1.2"
