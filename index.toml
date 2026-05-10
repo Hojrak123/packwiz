@@ -119,3 +119,18 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
 metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "8fa5ab69b76136f30b45a5946f109dc80716ec58be151d0a838e47912e902cf7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "9d611dca9d1af11a43d3bda6ef6d5ef7389b9184e62e82f1bcfe7aa4a9f68fbd"
+metafile = true
