@@ -1,0 +1,13 @@
+name = "The Block Keeps Ticking"
+filename = "the-block-keeps-ticking-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PVuSY2aI/versions/lzVhEsAn/the-block-keeps-ticking-1.1.0.jar"
+hash-format = "sha512"
+hash = "a5b7e14b722fe58cd4383bb6a2556bd24d04a630ff69884f82005e9b7f7f63fbeaacb7d7952ba9ea7cfe4e6ce9ba2090ecaaac0b72ea317cabe5914c220b9218"
+
+[update]
+[update.modrinth]
+mod-id = "PVuSY2aI"
+version = "lzVhEsAn"

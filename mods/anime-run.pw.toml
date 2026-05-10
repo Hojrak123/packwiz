@@ -1,0 +1,13 @@
+name = "Anime Run"
+filename = "animerun-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AzyjzilH/versions/Nzycedzk/animerun-1.1.0.jar"
+hash-format = "sha512"
+hash = "8cd2ee878c392aa19a9c8533f6c683205996790cecddb578650b85f943f64f614cc512c90726918c6cc63a20f5518155ec7705bd6243b44697ecd242dbdd7bf8"
+
+[update]
+[update.modrinth]
+mod-id = "AzyjzilH"
+version = "Nzycedzk"
