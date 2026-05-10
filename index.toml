@@ -121,6 +121,21 @@ hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "fa36f35382e8f72c198a779e7e0d3997b963aa98f8184488ed860f2655d6a968"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-fire-pack.pw.toml"
+hash = "24f2c9af543706a8500c4855cb20ecc0cab9a58f3787d216f180aa72c9ea925c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield-pack.pw.toml"
+hash = "9db892d50687ed43255241815656073a61e70c2e42ca017111240414ce6f2e1c"
+metafile = true
+
+[[files]]
 file = "shaderpacks/mellow.pw.toml"
 hash = "8fa5ab69b76136f30b45a5946f109dc80716ec58be151d0a838e47912e902cf7"
 metafile = true
