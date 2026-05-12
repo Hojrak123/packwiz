@@ -46,6 +46,11 @@ hash = "5adf60faf11b97a7979f398fd6c494f55603a384880db1bf9755f2495d0dc5a2"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "94768827963a3c80fffa06fbbf9d1c2cbae436c1ef83074d01221f1259f7cf55"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "4faca2e0642f517079f46d0ec9336a3c2ea075fad5dc359898983065fee6645a"
 metafile = true
 
 [[files]]
@@ -126,18 +136,8 @@ hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
 metafile = true
 
 [[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "fa36f35382e8f72c198a779e7e0d3997b963aa98f8184488ed860f2655d6a968"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-fire-pack.pw.toml"
-hash = "24f2c9af543706a8500c4855cb20ecc0cab9a58f3787d216f180aa72c9ea925c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-shield-pack.pw.toml"
-hash = "9db892d50687ed43255241815656073a61e70c2e42ca017111240414ce6f2e1c"
+file = "mods/zoomify.pw.toml"
+hash = "f27f5b486c792c796e451515c85b39b48c10840cfbec7f8632ed6c2643edde1e"
 metafile = true
 
 [[files]]
