@@ -1,12 +1,12 @@
 name = "watykanczyk"
 author = "hojraczek"
-version = "1.5"
+version = "1.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "61981642ce0cda0fd351edc281ab70a5c3aa42f253af22da5bbebf1d5cc43e14"
+hash = "9e301a4fd46d2fd8cdceda043c9d4157c05871463452427a07684ba7159123e0"
 
 [versions]
 fabric = "0.19.2"
